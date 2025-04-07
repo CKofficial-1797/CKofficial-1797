@@ -24,7 +24,6 @@
 🖥️ **Frontend**: React.js (Vite),  Tailwind CSS, Bootstrap  
 🛠️ **Backend**: Node.js, Express.js
 📡 **Databases**: MongoDB,  
-🧠 **AI/ML**: TensorFlow, Scikit-learn, Transfer Learning  
 ⚙️ **Tools**: Git, Postman  
 
 ---
