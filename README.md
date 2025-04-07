@@ -8,8 +8,8 @@
 👨🏻‍💻 **About Me**  
 ✨ Electrical Engineering Student at **NIT Jamshedpur**  
 ⚡ Passionate about **Full-Stack Development, AI/ML, and IoT**  
-🚀 Exploring **MERN Stack, TypeScript, and Machine Learning**  
-🎯 Currently working on **Smart AC Management & Learning Platform**  
+🚀 Exploring **MERN Stack**  
+
 
 📫 **Let's Connect:**  
 - 🌍 **Portfolio:** [Coming Soon]  
@@ -20,12 +20,12 @@
 ---
 
 ### 🚀 **Tech Stack**  
-💻 **Languages**: JavaScript (ES6+), TypeScript, Python, C++  
-🖥️ **Frontend**: React.js (Vite), Next.js, Tailwind CSS, Bootstrap  
-🛠️ **Backend**: Node.js, Express.js, Django  
-📡 **Databases**: MongoDB, Firebase  
+💻 **Languages**: JavaScript (ES6+), Python, C++  
+🖥️ **Frontend**: React.js (Vite),  Tailwind CSS, Bootstrap  
+🛠️ **Backend**: Node.js, Express.js
+📡 **Databases**: MongoDB,  
 🧠 **AI/ML**: TensorFlow, Scikit-learn, Transfer Learning  
-⚙️ **Tools**: Git, Docker, Redis, WebSockets, Postman  
+⚙️ **Tools**: Git, Postman  
 
 ---
 
