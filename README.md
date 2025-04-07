@@ -35,8 +35,5 @@
 
 ---
 
-⭐ **GitHub Stats**  
-![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKofficial-1797&show_icons=true&theme=radical)  
-
 📌 **"Building innovative solutions, one line of code at a time."** 🚀  
 
