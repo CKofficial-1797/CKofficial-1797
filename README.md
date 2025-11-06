@@ -19,6 +19,7 @@
 🛠️ **Backend:** Node.js, Express.js, REST APIs, Microservices  
 📡 **Databases:** MongoDB, PostgreSQL, Redis  
 🐳 **Tools & Platforms:** Git, GitHub, Docker, RabbitMQ, AWS EC2, VS Code  
+
 ---
 
 📌 **"Transforming ideas into scalable, impactful digital solutions."** 🚀  
