@@ -1,39 +1,24 @@
-
-
------------------------------------------------------------
-### Hi there, I'm Chandrakant Gorain! 👋  
+### Hi there, I'm **Chandrakant Gorain!** 👋  
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 👨🏻‍💻 **About Me**  
-✨ Electrical Engineering Student at **NIT Jamshedpur**  
-⚡ Passionate about **Full-Stack Development, AI/ML, and IoT**  
-🚀 Exploring **MERN Stack**  
+🎓 Undergraduate at **NIT Jamshedpur**  
+💡 Passionate about **Full-Stack Development, Microservices, and Cloud Computing**  
+⚙️ Exploring **Scalable System Design** and **Digital Innovation**  
+🚀 Active learner and open-source contributor with a strong problem-solving mindset  
 
-
-📫 **Let's Connect:**  
-- 🌍 **Portfolio:** [Coming Soon]  
+📫 **Let’s Connect:**  
 - 💼 **LinkedIn:** [Chandrakant Gorain](https://www.linkedin.com/in/chandrakant-gorain-0201b6287/)  
 - 🔥 **GitHub:** [CKofficial-1797](https://github.com/CKofficial-1797)  
-- 📩 **Email:** [Your Email]  
-
 ---
 
 ### 🚀 **Tech Stack**  
-💻 **Languages**: JavaScript (ES6+), Python, C++  
-🖥️ **Frontend**: React.js (Vite),  Tailwind CSS, Bootstrap  
-🛠️ **Backend**: Node.js, Express.js
-📡 **Databases**: MongoDB,  
-⚙️ **Tools**: Git, Postman  
-
+💻 **Languages:** C, C++, JavaScript  
+🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+🛠️ **Backend:** Node.js, Express.js, REST APIs, Microservices  
+📡 **Databases:** MongoDB, PostgreSQL, Redis  
+🐳 **Tools & Platforms:** Git, GitHub, Docker, RabbitMQ, AWS EC2, VS Code  
 ---
 
-### 🌱 **Projects & Contributions**  
-🔹 **[Vidyarthi - Online Learning Platform](https://github.com/CKofficial-1797/Padhlo-Platform.git)** (E-learning with authentication, payments & real-time features)  
-🔹 **[ElectrohackWithCK - HealthTech WebApp](https://github.com/CKofficial-1797/ElectrohackWithCK.git)** (AI-powered healthcare solutions)  
-🔹 **[Smart AC Management System](https://github.com/CKofficial-1797/YourRepoHere.git)** (IoT-based energy-efficient AC control)  
-
----
-
-📌 **"Building innovative solutions, one line of code at a time."** 🚀  
-
+📌 **"Transforming ideas into scalable, impactful digital solutions."** 🚀  
