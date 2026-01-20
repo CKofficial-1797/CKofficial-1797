@@ -1,25 +1,31 @@
-### Hi there, I'm **Chandrakant Gorain!** 👋  
+Hi, I’m Chandrakant Gorain
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
+ ### About Me
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+I am an undergraduate student at NIT Jamshedpur, focused on building scalable full-stack applications and backend systems.
+My work spans AI-powered SaaS platforms, REST-based microservices, and event-driven architectures, with an emphasis on clean system design, performance, and reliability.
 
-👨🏻‍💻 **About Me**  
-🎓 Undergraduate at **NIT Jamshedpur**  
-💡 Passionate about **Full-Stack Development, Microservices, and Cloud Computing**  
-⚙️ Exploring **Scalable System Design** and **Digital Innovation**  
-🚀 Active learner and open-source contributor with a strong problem-solving mindset  
+I enjoy working on problems that involve distributed systems, backend architecture, and applied AI, and I actively build projects that reflect real-world engineering practices.
 
-📫 **Let’s Connect:**  
-- 💼 **LinkedIn:** [Chandrakant Gorain](https://www.linkedin.com/in/chandrakant-gorain-0201b6287/)  
-- 🔥 **GitHub:** [CKofficial-1797](https://github.com/CKofficial-1797)  
----
 
-### 🚀 **Tech Stack**  
-💻 **Languages:** C, C++, JavaScript  
-🖥️ **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-🛠️ **Backend:** Node.js, Express.js, REST APIs, Microservices  
-📡 **Databases:** MongoDB, PostgreSQL, Redis  
-🐳 **Tools & Platforms:** Git, GitHub, Docker, RabbitMQ, AWS EC2, VS Code  
+ ### Tech Stack
 
----
+Languages
+C, C++, JavaScript
 
-📌 **"Transforming ideas into scalable, impactful digital solutions."** 🚀  
+Frontend
+React.js, Next.js, Tailwind CSS, Bootstrap
+
+Backend & APIs
+Node.js, Express.js, REST APIs, Microservices, tRPC
+
+Databases & Caching
+PostgreSQL, MongoDB, Redis, pgvector
+
+AI & Messaging
+RAG Pipelines, Google Gemini, LangChain, RabbitMQ
+
+DevOps & Tools
+Docker, Git, GitHub, AWS EC2, VS Code
+
+Building scalable systems and intelligent platforms through thoughtful engineering.
