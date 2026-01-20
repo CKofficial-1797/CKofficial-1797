@@ -1,4 +1,4 @@
-Hi, I’m Chandrakant Gorain
+# Hi, I’m Chandrakant Gorain
 <img width="200" height="200" alt="THORFIN2" src="https://github.com/user-attachments/assets/7d74bc72-248b-4e29-87c9-b16987dc7610" align="right" />
 
  ### About Me
