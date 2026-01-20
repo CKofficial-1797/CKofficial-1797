@@ -11,22 +11,22 @@ I enjoy working on problems that involve distributed systems, backend architectu
 
  ### Tech Stack
 
-Languages
-C, C++, JavaScript
+ Languages 
+ - C, C++, JavaScript
 
 Frontend
-React.js, Next.js, Tailwind CSS, Bootstrap
+ - React.js, Next.js, Tailwind CSS, Bootstrap
 
 Backend & APIs
-Node.js, Express.js, REST APIs, Microservices, tRPC
+ - Node.js, Express.js, REST APIs, Microservices, tRPC
 
 Databases & Caching
-PostgreSQL, MongoDB, Redis, pgvector
+ - PostgreSQL, MongoDB, Redis, pgvector
 
 AI & Messaging
-RAG Pipelines, Google Gemini, LangChain, RabbitMQ
+ - RAG Pipelines, Google Gemini, LangChain, RabbitMQ
 
 DevOps & Tools
-Docker, Git, GitHub, AWS EC2, VS Code
+ - Docker, Git, GitHub, AWS EC2, VS Code
 
 Building scalable systems and intelligent platforms through thoughtful engineering.
