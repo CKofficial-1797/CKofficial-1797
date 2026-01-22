@@ -31,3 +31,21 @@ DevOps & Tools
  - Docker, Git, GitHub, AWS EC2, VS Code
 
 Building scalable systems and intelligent platforms through thoughtful engineering.
+
+###  Highlighted Repositories
+
+
+ - Prometheus -  https://github.com/CKofficial-1797/Prometheus.git  
+ - Helix CLI -  https://github.com/CKofficial-1797/Helix-CLI.git  
+
+  - ChatApp – Microservices Architecture -  https://github.com/CKofficial-1797/ChatApp-microservices.git  
+
+
+
+ - Vidyarthi  https://github.com/CKofficial-1797/Vidyarthi-frontend.git  
+
+
+
+
+ - EzyMart - https://github.com/CKofficial-1797/EzyMart_frontend.git  
+
