@@ -24,7 +24,7 @@ Backend & APIs
 Databases , Caching &  Messaging
  - PostgreSQL, MongoDB, Redis, pgvector , RabbitMQ
 
-AI 
+Artificial Inteligence 
  - RAG Pipelines, Google Gemini, LangChain
 
 DevOps & Tools
