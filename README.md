@@ -21,11 +21,11 @@ Frontend
 Backend & APIs
  - Node.js, Express.js, REST APIs, Microservices, tRPC
 
-Databases & Caching
- - PostgreSQL, MongoDB, Redis, pgvector
+Databases , Caching &  Messaging
+ - PostgreSQL, MongoDB, Redis, pgvector , RabbitMQ
 
-AI & Messaging
- - RAG Pipelines, Google Gemini, LangChain, RabbitMQ
+AI 
+ - RAG Pipelines, Google Gemini, LangChain
 
 DevOps & Tools
  - Docker, Git, GitHub, AWS EC2, VS Code
