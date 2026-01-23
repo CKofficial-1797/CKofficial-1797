@@ -5,7 +5,7 @@
  ### About Me
 I am an undergraduate student at **NIT Jamshedpur** with a strong interest in designing and building **scalable** full-stack applications and **backend systems**. My work focuses on developing **production-oriented** software using modern web technologies, with careful attention to **system design**, performance, and reliability.
 
-I have hands-on experience building **AI-enabled SaaS** platforms, ** REST-based microservices**, and **event-driven** systems, where I emphasize clean architecture, maintainable code, and practical engineering trade-offs. Rather than treating projects as demos, I aim to structure them around real-world constraints such as scalability, fault tolerance, and extensibility.
+I have hands-on experience building **AI-enabled SaaS** platforms, **REST-based microservices**, and **event-driven** systems, where I emphasize clean architecture, maintainable code, and practical engineering trade-offs. Rather than treating projects as demos, I aim to structure them around real-world constraints such as scalability, fault tolerance, and extensibility.
 
 I am particularly interested in **backend architecture, distributed systems, and applied AI**, and I actively work on projects that help me deepen my understanding of how large-scale systems are designed, built, and operated in practice
 
