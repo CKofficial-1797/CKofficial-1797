@@ -3,34 +3,60 @@
 
 
  ### About Me
+I am an undergraduate student at **NIT Jamshedpur** with a strong interest in designing and building **scalable** full-stack applications and **backend systems**. My work focuses on developing **production-oriented** software using modern web technologies, with careful attention to **system design**, performance, and reliability.
 
-I am an undergraduate student at NIT Jamshedpur, focused on building scalable full-stack applications and backend systems.
-My work spans AI-powered SaaS platforms, REST-based microservices, and event-driven architectures, with an emphasis on clean system design, performance, and reliability.
+I have hands-on experience building **AI-enabled SaaS** platforms, ** REST-based microservices**, and **event-driven** systems, where I emphasize clean architecture, maintainable code, and practical engineering trade-offs. Rather than treating projects as demos, I aim to structure them around real-world constraints such as scalability, fault tolerance, and extensibility.
 
-I enjoy working on problems that involve distributed systems, backend architecture, and applied AI, and I actively build projects that reflect real-world engineering practices.
+I am particularly interested in **backend architecture, distributed systems, and applied AI**, and I actively work on projects that help me deepen my understanding of how large-scale systems are designed, built, and operated in practice
 
 
- ### Tech Stack
 
- Languages 
- - C, C++, JavaScript
+<table width="100%">
+<tr>
+<td width="42%" valign="top">
 
-Frontend
- - React.js, Next.js, Tailwind CSS, Bootstrap
+###  Tech Stack
 
-Backend & APIs
- - Node.js, Express.js, REST APIs, Microservices, tRPC
+**Languages**  
+- C, C++, JavaScript  
 
-Databases , Caching &  Messaging
- - PostgreSQL, MongoDB, Redis, pgvector , RabbitMQ
+**Frontend**  
+- React.js, Next.js, Tailwind CSS, Bootstrap  
 
-Artificial Inteligence 
- - RAG Pipelines, Google Gemini, LangChain
+**Backend & APIs**  
+- Node.js, Express.js, REST APIs, Microservices, tRPC  
 
-DevOps & Tools
- - Docker, Git, GitHub, AWS EC2, VS Code
+**Databases, Caching & Messaging**  
+- PostgreSQL, MongoDB, Redis, pgvector, RabbitMQ  
+
+**Artificial Intelligence**  
+- RAG Pipelines, Google Gemini, LangChain  
+
+**DevOps & Tools**  
+- Docker, Git, GitHub, AWS EC2, VS Code  
 
 Building scalable systems and intelligent platforms through thoughtful engineering.
+
+</td>
+
+<td width="58%" valign="top" align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph"
+  width="100%"
+/>
+
+<br><br>
+
+<img 
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
+  width="90%"
+/>
+
+</td>
+</tr>
+</table>
+
 
 ###  Highlighted Repositories
 
