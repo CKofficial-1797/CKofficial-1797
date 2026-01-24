@@ -66,23 +66,22 @@ I am particularly interested in **backend architecture, distributed systems, and
 />
 
 <br><br>
-
-<img 
-  src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
-  width="90%"
-/>
-
-<br><br>
-
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
   width="90%"
 />
 
 <br><br>
-
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKofficial-1797&theme=transparent&hide_border=true&layout=compact"
+  width="90%"
+/>
+
+<br><br>
+
+
+<img 
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
   width="90%"
 />
 
