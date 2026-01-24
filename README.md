@@ -28,29 +28,22 @@ I am particularly interested in **backend architecture, distributed systems, and
 - Bootstrap  
 
 ### Backend & APIs
-- Node.js  
-- Express.js  
+- Node.js + Express.js  
 - REST APIs  
 - Microservices  
 - tRPC  
 
 ### Databases, Caching & Messaging
-- PostgreSQL +Prisma ORM
+- PostgreSQL(pgvector) +Prisma ORM 
 - MongoDB  
 - Redis  
-- pgvector  
 - RabbitMQ  
 
 ### Artificial Intelligence
 - Retrieval-Augmented Generation (RAG) Pipelines  
-- Google Gemini  
 - LangChain  
 
-### DevOps & Tooling
-- Docker  
-- Git & GitHub  
-- AWS EC2  
-- VS Code  
+
 </td>
 
 <td width="60%" valign="top" align="center">
