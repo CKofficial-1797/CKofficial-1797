@@ -13,7 +13,7 @@ I am particularly interested in **backend architecture, distributed systems, and
 <tr>
 <td width="42%" valign="top">
 
-## 🧠 Tech Stack & Engineering Focus
+##  Tech Stack & Engineering Focus
 
 ### Languages
 - C  
@@ -58,7 +58,7 @@ I am particularly interested in **backend architecture, distributed systems, and
 
 <td width="58%" valign="top" align="center">
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity"
