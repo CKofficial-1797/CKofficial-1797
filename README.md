@@ -9,40 +9,59 @@ I have hands-on experience building **AI-enabled SaaS** platforms, **REST-based 
 
 I am particularly interested in **backend architecture, distributed systems, and applied AI**, and I actively work on projects that help me deepen my understanding of how large-scale systems are designed, built, and operated in practice
 
-
-
 <table width="100%">
 <tr>
 <td width="42%" valign="top">
 
-###  Tech Stack
+## 🧠 Tech Stack & Engineering Focus
 
-**Languages**  
-- C, C++, JavaScript  
+### Languages
+- C  
+- C++  
+- JavaScript  
 
-**Frontend**  
-- React.js, Next.js, Tailwind CSS, Bootstrap  
+### Frontend
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Bootstrap  
 
-**Backend & APIs**  
-- Node.js, Express.js, REST APIs, Microservices, tRPC  
+### Backend & APIs
+- Node.js  
+- Express.js  
+- REST APIs  
+- Microservices  
+- tRPC  
 
-**Databases, Caching & Messaging**  
-- PostgreSQL, MongoDB, Redis, pgvector, RabbitMQ  
+### Databases, Caching & Messaging
+- PostgreSQL  
+- MongoDB  
+- Redis  
+- pgvector  
+- RabbitMQ  
 
-**Artificial Intelligence**  
-- RAG Pipelines, Google Gemini, LangChain  
+### Artificial Intelligence
+- Retrieval-Augmented Generation (RAG) Pipelines  
+- Google Gemini  
+- LangChain  
 
-**DevOps & Tools**  
-- Docker, Git, GitHub, AWS EC2, VS Code  
+### DevOps & Tooling
+- Docker  
+- Git & GitHub  
+- AWS EC2  
+- VS Code  
 
-Building scalable systems and intelligent platforms through thoughtful engineering.
+> Focused on building **scalable systems**, **clean backend architectures**,  
+> and **intelligent platforms** with real-world engineering tradeoffs.
 
 </td>
 
 <td width="58%" valign="top" align="center">
 
+### 📊 GitHub Activity & Stats
+
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity"
   width="100%"
 />
 
@@ -50,6 +69,20 @@ Building scalable systems and intelligent platforms through thoughtful engineeri
 
 <img 
   src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
+  width="90%"
+/>
+
+<br><br>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
+  width="90%"
+/>
+
+<br><br>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKofficial-1797&theme=transparent&hide_border=true&layout=compact"
   width="90%"
 />
 
