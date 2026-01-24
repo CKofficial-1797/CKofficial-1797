@@ -16,10 +16,10 @@ I am particularly interested in **backend architecture, distributed systems, and
 
 ## Tech Stack & Engineering Focus
 
-### Languages
-- C  
+### Languages 
 - C++  
-- JavaScript  
+- JavaScript
+- TypeScript 
 
 ### Frontend
 - React.js  
@@ -35,7 +35,7 @@ I am particularly interested in **backend architecture, distributed systems, and
 - tRPC  
 
 ### Databases, Caching & Messaging
-- PostgreSQL  
+- PostgreSQL +Prisma ORM
 - MongoDB  
 - Redis  
 - pgvector  
@@ -51,10 +51,6 @@ I am particularly interested in **backend architecture, distributed systems, and
 - Git & GitHub  
 - AWS EC2  
 - VS Code  
-
-> Focused on building **scalable systems**, **clean backend architectures**,  
-> and **intelligent platforms** with real-world engineering tradeoffs.
-
 </td>
 
 <td width="60%" valign="top" align="center">
