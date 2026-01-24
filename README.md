@@ -11,9 +11,10 @@ I am particularly interested in **backend architecture, distributed systems, and
 
 <table width="100%">
 <tr>
-<td width="42%" valign="top">
 
-##  Tech Stack & Engineering Focus
+<td width="40%" valign="top">
+
+## Tech Stack & Engineering Focus
 
 ### Languages
 - C  
@@ -56,9 +57,9 @@ I am particularly interested in **backend architecture, distributed systems, and
 
 </td>
 
-<td width="58%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
-###  GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity"
@@ -66,26 +67,21 @@ I am particularly interested in **backend architecture, distributed systems, and
 />
 
 <br><br>
+
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
-  width="90%"
+  width="95%"
 />
 
 <br><br>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKofficial-1797&theme=transparent&hide_border=true&layout=compact"
-  width="90%"
-/>
-
-<br><br>
-
 
 <img 
   src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
-  width="90%"
-/>
+  width="95%" 
+/> 
 
 </td>
+
 </tr>
 </table>
 
