@@ -75,20 +75,3 @@ I am particularly interested in **backend architecture, distributed systems, and
 </table>
 
 
-###  Highlighted Repositories
-
-
- - Prometheus -  https://github.com/CKofficial-1797/Prometheus.git  
- - Helix CLI -  https://github.com/CKofficial-1797/Helix-CLI.git  
- - ReadWrite - https://github.com/CKofficial-1797/ReadWriteCompleteCode.git
-  - ChatApp – Microservices Architecture -  https://github.com/CKofficial-1797/ChatApp-microservices.git  
-
-
-
- - Vidyarthi  https://github.com/CKofficial-1797/Vidyarthi-frontend.git  
-
-
-
-
- - EzyMart - https://github.com/CKofficial-1797/EzyMart_frontend.git  
-
