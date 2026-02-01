@@ -59,7 +59,7 @@ I am particularly interested in **backend architecture, distributed systems, and
 
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
-  width="95%"
+  width="95%" alt ="Github Streak"
 />
 
 <br><br>
