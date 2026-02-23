@@ -1,5 +1,5 @@
 # Hi, I’m Chandrakant Gorain
-<img width="311" height="311" alt="image" src="https://github.com/user-attachments/assets/b935ee5e-f72a-489a-b25c-ade1f23a1b77" align ="right" />
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/b935ee5e-f72a-489a-b25c-ade1f23a1b77" align ="right" />
 
 
  ### About Me
