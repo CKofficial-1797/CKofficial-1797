@@ -13,7 +13,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ## Engineering Focus 
 
@@ -46,7 +46,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
 ### GitHub Activity & Stats
 
