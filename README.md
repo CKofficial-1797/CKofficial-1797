@@ -14,34 +14,33 @@ I am particularly interested in **backend architecture, distributed systems, and
 
 <td width="40%" valign="top">
 
-## Tech Stack & Engineering Focus
+## Engineering Focus 
 
-### Languages 
-- C++  
-- JavaScript
-- TypeScript 
+### Backend & API Engineering
 
-### Frontend
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- Bootstrap  
-
-### Backend & APIs
-- Node.js + Express.js  
-- REST APIs  
-- Microservices  
-- tRPC  
+- **Node.js** – Event-driven architecture, async handling  
+- **Express.js** – Middleware design, routing, centralized error handling  
+- **RESTful API Design** – Authentication, validation, versioning  
+- **tRPC** – End-to-end type-safe APIs with TypeScript  
+- **Microservices Architecture** – Service isolation, inter-service communication  
 
 ### Databases, Caching & Messaging
-- PostgreSQL(pgvector) +Prisma ORM 
-- MongoDB  
-- Redis  
-- RabbitMQ  
+
+- **PostgreSQL** – pgvector for embeddings & similarity search  
+- **Prisma ORM** – Schema modeling, migrations, query optimization  
+- **MongoDB** – Document modeling & aggregation pipelines  
+- **Redis** – Caching layer, session storage  
+- **RabbitMQ** – Event-driven messaging & background processing  
 
 ### Artificial Intelligence
-- Retrieval-Augmented Generation (RAG) Pipelines  
-- LangChain  
+
+- **Retrieval-Augmented Generation (RAG)** – Context-aware generation pipeline  
+- **LLM API Integration** – OpenAI / Gemini / external LLM APIs  
+- **Prompt Engineering** – Structured outputs & response control  
+- **LangChain** – Chains, agents, tool calling  
+- **Agentic Workflows** – Tool-based reasoning flows  
+- **Vector Database Integration** – Embeddings & similarity search  
+- **Streaming Responses** – Real-time token streaming & context management  
 
 
 </td>
@@ -62,12 +61,130 @@ I am particularly interested in **backend architecture, distributed systems, and
   width="95%" alt ="Github Streak"
 />
 
-<br><br>
+<!-- <br><br> -->
 
-<img 
+<!-- <img 
   src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
   width="95%" 
-/> 
+/>  -->
+
+### Tools and Technologies
+
+<div style="display: flex; justify-content: center;">
+<table align="center">
+
+<tr>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>
+React
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br/>
+JavaScript
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/><br/>
+TypeScript
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/><br/>
+Node JS
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/><br/>
+MongoDB
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65"/><br/>
+PostgreSQL
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br/>
+MySQL
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br/>
+AWS
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br/>
+C++
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br/>
+Java
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65"/><br/>
+Git
+</td>
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/>
+GitHub
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65"/><br/>
+Bootstrap
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65"/><br/>
+Tailwind
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/><br/>
+VS Code
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="110">
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60"/><br/>
+LangChain
+</td>
+
+<td align="center" width="110">
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="60" height="60"/><br/>
+Vercel
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=rabbitmq" width="60" height="60"/><br/>
+RabbitMQ
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="60" height="60"/><br/>
+Redis
+</td>
+
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>
+Docker
+</td>
+</tr>
+
+</table>
+</div>
 
 </td>
 
