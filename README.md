@@ -48,27 +48,6 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 
 <td width="55%" valign="top" align="center">
 
-### GitHub Activity & Stats
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity"
-  width="100%"
-/>
-
-<br><br>
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
-  width="95%" alt ="Github Streak"
-/>
-
- <br><br>
-
-<!-- <img 
-  src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
-  width="95%" 
-/>  -->
-
 ### Tools and Technologies
 
 <div style="display: flex; justify-content: center;">
@@ -186,6 +165,29 @@ Docker
 
 </table>
 </div>
+
+### GitHub Activity & Stats
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity"
+  width="100%"
+/>
+
+<br><br>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
+  width="95%" alt ="Github Streak"
+/>
+
+ <br><br>
+
+<!-- <img 
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=CKofficial-1797&theme=transparent&show_icons=true&count_private=true&hide_border=true"
+  width="95%" 
+/>  -->
+
+
 
 </td>
 
