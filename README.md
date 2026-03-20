@@ -36,7 +36,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 ### Artificial Intelligence
 
 - **Retrieval-Augmented Generation (RAG)** – Context-aware generation pipeline  
-- **LLM API Integration** – OpenAI / Gemini / external LLM APIs   
+- **LLM API Integration** – OpenAI / Gemini / external LLM APIs .  
 - **Agentic Workflows** – Tool-based reasoning flows  
 - **Vector Database Integration** – Embeddings & similarity search  
 - **Streaming Responses** – Real-time token streaming & context management  
