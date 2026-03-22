@@ -3,7 +3,7 @@
 
 
  ### About Me
-I am an undergraduate at **NIT Jamshedpur** focused on building **scalable backend systems** and **full-stack applications**. My work emphasizes **system design**, **performance**, and **reliability**, with practical exposure to **distributed architectures**.
+I am an undergraduate at **NIT Jamshedpur** focused on building **scalable backend systems** and **full-stack applications**. My work emphasizes **system design**, **performance**, and **reliability**, with practical exposure to **distributed architectures**
 
 I have hands-on experience developing **AI-enabled applications**, **RESTful microservices**, and **event-driven distributed systems**, with attention to **clean architecture** and **maintainable code**.
 
