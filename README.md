@@ -7,7 +7,7 @@ I am an undergraduate at **NIT Jamshedpur** focused on building **scalable backe
 
 I have hands-on experience developing **AI-enabled applications**, **RESTful microservices**, and **event-driven distributed systems**, with attention to **clean architecture** and **maintainable code**
 
-My core interests lie in **backend engineering**, **distributed systems**, and **applied AI**, and I actively build projects to deepen my understanding of how **large-scale systems** are designed and coordinated
+My core interests lie in **backend engineering**, **distributed systems**, and **applied AI**, and I actively build projects to deepen my understanding of how **large-scale systems** are designed and coordinated.
 
 
 <table width="100%">
