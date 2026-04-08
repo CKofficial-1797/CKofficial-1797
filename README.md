@@ -26,7 +26,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 - **Microservices Architecture** – Service isolation, inter-service communication
 
 <!-- <br></br> -->
-<br></br>
+<!-- <br></br> -->
 
 ### Databases, Caching & Messaging
 
