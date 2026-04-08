@@ -43,13 +43,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 
 <td width="55%" valign="top" >
 
- ### Artificial Intelligence
 
-- **Retrieval-Augmented Generation (RAG)** – Context-aware generation pipeline  
-- **LLM API Integration** – OpenAI / Gemini / external LLM APIs .  
-- **Agentic Workflows** – Tool-based reasoning flows  
-- **Vector Database Integration** – Embeddings & similarity search  
-- **Streaming Responses** – Real-time token streaming & context management  
 
 
 ### Tools and Technologies
@@ -177,7 +171,13 @@ Docker
   width="100%"
 /> -->
 
+ ### Artificial Intelligence
 
+- **Retrieval-Augmented Generation (RAG)** – Context-aware generation pipeline  
+- **LLM API Integration** – OpenAI / Gemini / external LLM APIs .  
+- **Agentic Workflows** – Tool-based reasoning flows  
+- **Vector Database Integration** – Embeddings & similarity search  
+- **Streaming Responses** – Real-time token streaming & context management  
 <!-- <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
   width="95%" alt ="Github Streak"
