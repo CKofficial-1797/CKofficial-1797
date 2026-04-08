@@ -23,7 +23,10 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 - **Express.js** – Middleware design, routing, centralized error handling  
 - **RESTful API Design** – Authentication, validation, versioning  
 - **tRPC** – End-to-end type-safe APIs with TypeScript  
-- **Microservices Architecture** – Service isolation, inter-service communication 
+- **Microservices Architecture** – Service isolation, inter-service communication
+
+<!-- <br></br> -->
+<br></br>
 
 ### Databases, Caching & Messaging
 
@@ -33,18 +36,20 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 - **Redis** – Caching layer, session storage  
 - **RabbitMQ** – Event-driven messaging & background processing  
 
-### Artificial Intelligence
+
+
+
+</td>
+
+<td width="55%" valign="top" >
+
+ ### Artificial Intelligence
 
 - **Retrieval-Augmented Generation (RAG)** – Context-aware generation pipeline  
 - **LLM API Integration** – OpenAI / Gemini / external LLM APIs .  
 - **Agentic Workflows** – Tool-based reasoning flows  
 - **Vector Database Integration** – Embeddings & similarity search  
 - **Streaming Responses** – Real-time token streaming & context management  
-
-
-</td>
-
-<td width="55%" valign="top" align="center">
 
 
 ### Tools and Technologies
@@ -165,20 +170,21 @@ Docker
 </table>
 </div>
 
-### GitHub Activity & Stats
 
-<img 
+
+<!-- <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=CKofficial-1797&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Activity"
   width="100%"
-/>
+/> -->
 
-<br><br> 
-<img 
+
+<!-- <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=CKofficial-1797&theme=transparent&hide_border=true"
   width="95%" alt ="Github Streak"
-/>
+/> -->
 
- <br><br>
+
+
 
 
 
