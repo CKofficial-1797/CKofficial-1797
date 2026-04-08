@@ -23,7 +23,8 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 - **Express.js** – Middleware design, routing, centralized error handling  
 - **RESTful API Design** – Authentication, validation, versioning  
 - **tRPC** – End-to-end type-safe APIs with TypeScript  
-- **Microservices Architecture** – Service isolation, inter-service communication
+- **Microservices Architecture**
+  
 
 <!-- <br></br> -->
 <!-- <br></br> -->
@@ -34,7 +35,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 - **Prisma ORM** – Schema modeling, migrations, query optimization  
 - **MongoDB** – Document modeling & aggregation pipelines  
 - **Redis** – Caching layer, session storage  
-- **RabbitMQ** – Event-driven messaging & background processing  
+- **RabbitMQ** 
 
 
 
