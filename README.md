@@ -35,7 +35,7 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 - **Prisma ORM** – Schema modeling, migrations, query optimization  
 - **MongoDB** – Document modeling & aggregation pipelines  
 - **Redis** – Caching layer, session storage  
-- **RabbitMQ** 
+- **RabbitMQ** -Messaging queue
 
 
 
