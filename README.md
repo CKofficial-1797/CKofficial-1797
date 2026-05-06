@@ -9,8 +9,7 @@ I have hands-on experience developing **AI-enabled applications**, **RESTful mic
 
 My core interests lie in **backend engineering**, **distributed systems**, and **applied AI**, and I actively build projects to deepen my understanding of how **large-scale systems** are designed and coordinated
 
-<img 
-  src="https://github.com/abressiddique/abressiddique/blob/main/githubgif.gif"/>
+
 <table width="100%">
 <tr>
 
@@ -202,6 +201,8 @@ Docker
 </tr>
 </table>
 
+<img 
+  src="https://github.com/abressiddique/abressiddique/blob/main/githubgif.gif"/>
   <!-- width="95%"  -->
 <!-- />  -->
 
