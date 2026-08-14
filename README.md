@@ -53,12 +53,38 @@ My core interests lie in **backend engineering**, **distributed systems**, and *
 <table align="center">
 
 <tr>
+ <td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br/>
+Java
+</td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>
-React
+  <img src="https://skillicons.dev/icons?i=spring" width="65" height="65"/><br/>
+  Spring Boot
+</td>
+
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=rabbitmq" width="60" height="60"/><br/>
+RabbitMQ
 </td>
 
 <td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="60" height="60"/><br/>
+Redis
+</td>
+
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>
+Docker
+</td>
+
+
+</tr>
+
+
+<tr>
+ <td align="center" width="110">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br/>
 JavaScript
 </td>
@@ -69,53 +95,38 @@ TypeScript
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/><br/>
-Node JS
-</td>
-
-<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/><br/>
 MongoDB
 </td>
+
+ 
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/><br/>
+Node JS
+</td>
+<!-- <td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br/>
+MySQL
+</td> -->
+
+
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br/>
+React
+</td>
+
 </tr>
 
 <tr>
-<td align="center" width="110">
+  <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65"/><br/>
 PostgreSQL
 </td>
-
-<td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br/>
-MySQL
-</td>
-
-<td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br/>
-AWS
-</td>
-
-<td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br/>
-C++
-</td>
-
-<td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br/>
-Java
-</td>
-</tr>
-
-<tr>
 <td align="center" width="110">
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65"/><br/>
 Git
 </td>
 
-<td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/>
-GitHub
-</td>
 
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65"/><br/>
@@ -144,22 +155,24 @@ LangChain
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="60" height="60"/><br/>
 Vercel
 </td>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=rabbitmq" width="60" height="60"/><br/>
-RabbitMQ
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/><br/>
+AWS
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=redis" width="60" height="60"/><br/>
-Redis
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br/>
+C++
 </td>
-
 
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65"/><br/>
-Docker
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br/>
+GitHub
 </td>
+
+
+
+
 </tr>
 
 </table>
